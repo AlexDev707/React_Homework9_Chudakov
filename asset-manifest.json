@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Homework9_Chudakov/static/css/main.f95eda02.chunk.css",
+    "main.js": "/React_Homework9_Chudakov/static/js/main.2471509d.chunk.js",
+    "main.js.map": "/React_Homework9_Chudakov/static/js/main.2471509d.chunk.js.map",
+    "runtime-main.js": "/React_Homework9_Chudakov/static/js/runtime-main.da97c475.js",
+    "runtime-main.js.map": "/React_Homework9_Chudakov/static/js/runtime-main.da97c475.js.map",
+    "static/js/2.6bc616ae.chunk.js": "/React_Homework9_Chudakov/static/js/2.6bc616ae.chunk.js",
+    "static/js/2.6bc616ae.chunk.js.map": "/React_Homework9_Chudakov/static/js/2.6bc616ae.chunk.js.map",
+    "index.html": "/React_Homework9_Chudakov/index.html",
+    "static/css/main.f95eda02.chunk.css.map": "/React_Homework9_Chudakov/static/css/main.f95eda02.chunk.css.map",
+    "static/js/2.6bc616ae.chunk.js.LICENSE.txt": "/React_Homework9_Chudakov/static/js/2.6bc616ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da97c475.js",
+    "static/js/2.6bc616ae.chunk.js",
+    "static/css/main.f95eda02.chunk.css",
+    "static/js/main.2471509d.chunk.js"
+  ]
+}
